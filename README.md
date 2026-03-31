@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**fisayojiboye/FisayoJiboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fisayojiboye/fisayojiboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I’m a data-driven problem solver with a background in finance, focused on using data to drive business decisions, reduce risk, and improve performance.
 
