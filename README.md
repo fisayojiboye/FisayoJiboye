@@ -40,5 +40,4 @@ I’m a data-driven problem solver with a background in finance, focused on usin
 
 - ⚡ Fun fact:
   I combine finance expertise with data science to uncover insights that directly impact revenue, risk, and growth.
-
 -->
