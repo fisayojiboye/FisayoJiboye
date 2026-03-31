@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**fisayojiboye/FisayoJiboye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Fisayo Ajiboye
 
 I’m a data-driven problem solver with a background in finance, focused on using data to drive business decisions, reduce risk, and improve performance.
 
@@ -40,5 +37,3 @@ I’m a data-driven problem solver with a background in finance, focused on usin
 
 - ⚡ Fun fact:
   I combine finance expertise with data science to uncover insights that directly impact revenue, risk, and growth.
--->
-
