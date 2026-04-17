@@ -1,39 +1,19 @@
-## Hi there 👋 I'm Fisayo Ajiboye
+# Hi, I'm Fisayo Ajiboye 👋
 
-I’m a data-driven problem solver with a background in finance, focused on using data to drive business decisions, reduce risk, and improve performance.
+Data Scientist with a background in finance — I build ML systems that help 
+financial institutions reduce fraud, manage credit risk, and make smarter decisions.
 
----
+## 🔨 Featured Projects
 
-- 🔭 I’m currently working on:
-  - Customer delinquency prediction models
-  - Churn analysis projects
-  - End-to-end data analytics workflows (SQL → EDA → Modeling → Insights)
+| Project | What It Does | Stack | Live |
+|---|---|---|---|
+| [FraudGuard](https://github.com/fisayojiboye/Online-Payment-Fraud-Detection) | Fraud detection on 6.3M transactions — 0.9997 AUC, 95.8% fraud recall | Python, XGBoost, Streamlit | [Demo →](https://fisayojiboye-f9ggy4zwhw5ixuefy6442q.streamlit.app/) |
+| [CreditRiskAI](https://github.com/fisayojiboye/CreditRiskAI-Agentic-Collections) | Agentic AI system for loan delinquency management with ethical guardrails | Python, Streamlit, Agent Architecture | [Demo →](https://creditriskai-agentic-collections-5pk8m39bclwsf679cuywrg.streamlit.app/) |
 
-- 🌱 I’m currently learning:
-  - Advanced Machine Learning techniques
-  - Model deployment (MLOps)
-  - Building production-ready data solutions
+## 🛠 Stack
+`Python` `SQL` `XGBoost` `Scikit-learn` `Streamlit` `Power BI` `Pandas` `Jupyter`
 
-- 👯 I’m looking to collaborate on:
-  - Real-world data science and analytics projects
-  - Business-focused problem solving (fintech, health, operations)
-
-- 🤔 I’m looking for help with:
-  - Deploying machine learning models
-  - Scaling projects beyond notebooks
-  - Industry best practices for data science
-
-- 💬 Ask me about:
-  - SQL, Python, and Exploratory Data Analysis (EDA)
-  - Predictive modeling (churn, risk, customer behavior)
-  - Financial analysis and business strategy
-  - Turning data into actionable insights
-
-- 📫 How to reach me:
-  - LinkedIn: [https://www.linkedin.com/in/oluwafisayomi-ajiboye-8a4902124?utm_source=share_via&utm_content=profile&utm_medium=member_ios]
-  - Email: [Oluwafisayomiajiboye@gmail.com]
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact:
-  I combine finance expertise with data science to uncover insights that directly impact revenue, risk, and growth.
+## 📬 Let's connect
+[LinkedIn](https://www.linkedin.com/in/oluwafisayomi-ajiboye-8a4902124) · 
+[Medium](https://medium.com/@oluwafisayomiajiboye) · 
+oluwafisayomiajiboye@gmail.com
